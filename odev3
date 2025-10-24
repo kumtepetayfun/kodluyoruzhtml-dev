@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Çikolata Küpleri Tarifi</title>
+    
+</head>
+<body>
+
+    <h1>💛 ...Çikolata Küpleri... 💙</h1>
+    <p>
+        Çikolatalı ve şam fıstıklı tadımlık lezzetler...  
+        Yalnızca 4 malzeme ile hazırlanan çikolata küpleri,  
+        özel günlerde veya dost sofralarında sunulabilir.
+    </p>
+
+    <div 
+    class="tarif">
+        <p><b>Tarif:</b> Rukiye Beyza Sarıkaya</p>
+        <p><b>Kaç Kişilik:</b> 4 kişilik &nbsp;&nbsp; 
+           <b>Hazırlama Süresi:</b> 30 dakika &nbsp;&nbsp; 
+           <b>Pişirme Süresi:</b> 10 dakika</p>
+
+        <hr>
+
+        <b>Çikolata Küpleri Tarifi İçin Malzemeler:</b>
+        <ul>
+            <li>350 gr bitter çikolata</li>
+            <li>150 ml krema</li>
+            <li>1 çorba kaşığı tereyağı</li>
+            <li>150 gr şamfıstık (badem veya fındık da olabilir)</li>
+        </ul>
+
+        <b>Çikolata Küpleri Nasıl Yapılır:</b>
+        <ol>
+            <li>Bitter çikolatayı benmari usulü eritin.</li>
+            <li>Eriyen çikolatanın üzerine krema ve tereyağını ekleyip iyice karıştırın.</li>
+            <li>Şamfıstıkları havanda çok az dövüp karışıma ekleyin.</li>
+            <li>Hazırladığınız karışımı yağlı kağıt serili bir tepsiye dökün.</li>
+            <li>Buzdolabında 1 saat bekletin.</li>
+            <li>Kalıptan çıkarın, kare parçalara bölün.</li>
+        </ol>
+    </div>
+
+    <div class="footer">💛 Afiyet Olsun 💙</div>
+
+</body>
+</html>
