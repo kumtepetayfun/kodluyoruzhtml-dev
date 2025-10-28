@@ -1,0 +1,41 @@
+*{
+  font-family:Arial, Helvetica, sans-serif; /* Tüm yazı tipleri Arial, Helvetica veya sans-serif olarak ayarlanır */
+  background-color: #ffff48; /* Tüm yazı tipleri Arial, Helvetica veya sans-serif olarak ayarlanır */
+  text-align: center; /* Tüm metinler ortalanır */
+  text-decoration: none; /* Tüm metinlerde alt çizgi kaldırılır */
+  list-style-position: inside; /* Liste işaretleri içeriye alınır. madde madde ortaya gelir. bu yazılmassa en solda gözükürler */
+}
+
+header {
+  font-size: 100px; 
+  color: rgb(66, 7, 202);
+}
+nav {
+  height: 8vh;  
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Times New Roman', Times, serif;
+   color: rgb(94, 3, 3);
+  font-size: 50px;
+  background-color: rgb(8, 5, 106);
+  hyphenate-character: inherit;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+li {
+  font-size: 22px;
+  color: rgb(1, 6, 0);
+}
+
+main {
+  font-size: 100px;
+  color: #1c0b9f;
+}
+a {
+  text-decoration: none ; 
+  color: rgb(32, 4, 211);
+  font-size: 30px;
+}
