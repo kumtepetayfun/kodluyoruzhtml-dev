@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+    margin: 30px;
+    padding: 0;
+}
+
+
+div {
+    margin: 0px;
+    padding: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+.metin {
+    border: 1px solid rgb(0, 0, 0)ck;
+    padding: 20px;
+    margin-right: 3px;
+    min-width: 30%;
+    background-color: rgb(37, 173, 157);
+    float: left;
+    
+}
+.left-bar {
+    border: 10px solid rgb(0, 0, 0)ck;
+    padding: 20px;
+    min-width: 30%;
+    background-color: rgb(37, 173, 157);
+    float: left;
+}
+.right-bar {
+    border: 10px solid rgb(0, 0, 0)ck;
+    padding: 20px;
+    margin-left: 3px;
+    min-width: 30%;
+    background-color: rgb(37, 173, 157);
+    float: left;
+}
